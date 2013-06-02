@@ -9,7 +9,7 @@
 		<version>7</version>
 	</parent>
 
-	<groupId>com.xplan.core</groupId>
+	<groupId>com.belerweb</groupId>
 	<artifactId>alex-word-filter</artifactId>
 	<version>1.0</version>
 
