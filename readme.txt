@@ -9,3 +9,10 @@ alex.zhangrj@hotmail.com
 
 整理人：
 	本项目有本人因工作需要整理为Maven版本项目欢迎frok
+
+已发布到Maven中央库，欢迎依赖。
+<dependency>
+  <groupId>com.belerweb</groupId>
+  <artifactId>alex-word-filter</artifactId>
+  <version>1.0</version>
+</dependency>
